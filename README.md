@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,java,nodejs,bootstrap,tailwind" /> <br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,mongodb,express,mysql,postgres,github,git,vscode" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,mongodb,express,mysql,postgres,github,git,vscode,nestjs" /> <br>
 <!--     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,java,nextjs,mysql,postgres,laravel,php" /><br> -->
 </div>
